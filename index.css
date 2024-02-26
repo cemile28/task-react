@@ -1,0 +1,31 @@
+.books{
+    width: 340px;
+    margin-bottom: 10px;
+    margin-top: 16px;
+    border: 1px rgb(203, 190, 190) solid ;
+    padding: 10px;
+    text-align: center;
+   
+}
+.root{
+    display: flex;
+    justify-content: center;
+}
+.price{
+     font-size: 25px;
+     font-weight: 900;
+}
+.images{
+    width: 320px;
+}
+.author{
+    font-size: 23px;
+    font-weight: 800;
+}
+.bookname{
+    color: rgb(50, 49, 49);
+}
+
+.images2{
+    width: 340px;
+}
